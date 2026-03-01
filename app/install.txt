@@ -1,0 +1,28 @@
+Installation
+Download and extract the zip
+Click the download button above. Once downloaded, right-click the zip file and select Extract All. You can extract it anywhere — for example: C:\Program Files\iRacing Paint Cleaner\
+
+Unblock the script
+Windows blocks scripts downloaded from the internet by default. You need to unblock it once before it will run.
+
+This step is required. Skipping it will cause the app to fail silently or show an execution policy error.
+To unblock:
+
+Find iRacing-Paint-Cleaner.ps1 in the extracted folder
+Right-click it → Properties
+At the bottom of the General tab, check the Unblock checkbox
+Click OK
+If there is no Unblock checkbox, the file is already trusted — skip this step.
+
+Launch the app
+Double-click Launch.bat.
+
+If Windows shows a SmartScreen warning, click More info then Run anyway. This is expected for new software that hasn't built up a reputation with Microsoft yet.
+
+Activate your license
+On first launch, an activation screen appears. Paste the license key from your purchase confirmation page and click Activate.
+
+Your key is locked to this machine after activation. If you get a new PC or reinstall Windows, contact support and we'll reset it for you.
+
+Clean your paint files
+After activation the main app opens. Your iRacing paint folder is detected automatically at Documents\iRacing\paint. Click Scan Folder to preview what will be deleted, then Clean Paint Files to remove them.
